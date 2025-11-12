@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=2JongHyeok&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/2JongHyeok?pet-id=776335245654163804"
-    width="600"
-    height="400"
-  />
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=2JongHyeok&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/2JongHyeok"
+  width="600"
+  height="300"
+/>
 </a>
   
 <!--
